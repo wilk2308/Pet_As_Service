@@ -26,7 +26,8 @@ A aplicação possui uma interface simples, construída com **Windows Forms**, c
 - Botão para "Favoritar"
 - Tela de favoritos salvos
 
-![Pet As A Service - Print da Interface](https://github.com/seu-usuario/PetAsAService/blob/main/screenshots/form_busca.png)
+![Pet As A Service - Print do Home](https://github.com/seu-usuario/PetAsAService/blob/main/screenshots/form_busca.png)
+![Pet As A Service - Print do Buscar](https://github.com/seu-usuario/PetAsAService/blob/main/screenshots/form_busca.png)
 
 ---
 
@@ -74,7 +75,7 @@ Pet_As_Service/
 - [x] Exibir informações detalhadas da raça
 - [x] Exibir imagem ilustrativa
 - [x] Marcar raças como favoritas
-- [x] Navegação entre telas
+- [ ] Navegação entre telas *(em desenvolvimento)*
 - [ ] Armazenar favoritos de forma persistente *(em desenvolvimento)*
 
 ---
@@ -93,10 +94,6 @@ Durante esse projeto, foi possível praticar:
 
 ## 👤 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) como parte do desafio **#7DaysOfCode**.
+Desenvolvido por [Will](https://github.com/wilk2308) como parte do desafio **#7DaysOfCode**.
 
----
 
-## 📝 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
