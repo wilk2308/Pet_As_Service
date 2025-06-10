@@ -26,8 +26,8 @@ A aplicação possui uma interface simples, construída com **Windows Forms**, c
 - Botão para "Favoritar"
 - Tela de favoritos salvos
 
-![Pet As A Service - Print do Home](https://github.com/seu-usuario/PetAsAService/blob/main/screenshots/form_busca.png)
-![Pet As A Service - Print do Buscar](https://github.com/seu-usuario/PetAsAService/blob/main/screenshots/form_busca.png)
+![Pet As A Service - Print do Home](https://github.com/wilk2308/Pet_As_Service/blob/main/img/home.png)
+![Pet As A Service - Print do Buscar](https://github.com/wilk2308/Pet_As_Service/blob/main/img/buscar.png)
 
 ---
 
