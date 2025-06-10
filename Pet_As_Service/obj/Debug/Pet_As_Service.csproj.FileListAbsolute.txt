@@ -1,0 +1,16 @@
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\bin\Debug\Pet_As_Service.exe.config
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\bin\Debug\Pet_As_Service.exe
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\bin\Debug\Pet_As_Service.pdb
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\bin\Debug\Newtonsoft.Json.dll
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\bin\Debug\Newtonsoft.Json.xml
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.csproj.AssemblyReference.cache
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.Form1.resources
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.FormBuscaRacas.resources
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.FormFavoritos.resources
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.Properties.Resources.resources
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.csproj.GenerateResource.cache
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.csproj.CoreCompileInputs.cache
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_S.ADF62C16.Up2Date
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.exe
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.pdb
+C:\projetos\c#\Pet_As_Service\Pet_As_Service\obj\Debug\Pet_As_Service.exe.config

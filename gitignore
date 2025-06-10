@@ -1,0 +1,66 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+*.app
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vs/
+*.dbmdl
+*.bak
+*.cache
+*.pdb
+*.sdf
+*.opensdf
+*.VC.db
+*.psess
+*.vsp
+*.vspx
+*.ncb
+
+# Windows Form Designer generated files
+*.Designer.cs
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Others
+*.tmp
+*.temp
+*.~*
+
+# Configuration files
+appsettings*.json
+*.config
+
+# JetBrains Rider
+.idea/
+
+# Logs
+*.log
+
+# Thumbnails
+[Tt]humbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
