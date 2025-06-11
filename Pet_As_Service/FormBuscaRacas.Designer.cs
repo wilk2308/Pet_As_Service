@@ -55,6 +55,7 @@ namespace Pet_As_Service
             this.label9 = new System.Windows.Forms.Label();
             this.txtCuidados = new System.Windows.Forms.TextBox();
             this.pbRacaImagem = new System.Windows.Forms.PictureBox();
+            this.panel2 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbRacaImagem)).BeginInit();
@@ -289,6 +290,14 @@ namespace Pet_As_Service
             this.pbRacaImagem.TabIndex = 14;
             this.pbRacaImagem.TabStop = false;
             // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.panel2.Location = new System.Drawing.Point(472, 244);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(233, 248);
+            this.panel2.TabIndex = 21;
+            // 
             // FormBuscaRacas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -313,6 +322,7 @@ namespace Pet_As_Service
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.cbxRacas);
             this.Controls.Add(this.panel1);
+            this.Controls.Add(this.panel2);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormBuscaRacas";
             this.Text = "FormBuscaRacas";
@@ -351,6 +361,7 @@ namespace Pet_As_Service
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.TextBox txtCuidados;
         private System.Windows.Forms.PictureBox pbRacaImagem;
+        private System.Windows.Forms.Panel panel2;
     }
 }
 
